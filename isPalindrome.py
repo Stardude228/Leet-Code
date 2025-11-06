@@ -20,7 +20,7 @@ def isPalindrome():
 isPalindrome()
 
 
-# optimized version of isPalindrome
+# optimized version of isPalindrome (Leet Code)
 def isPalindrome():
     x = 22233333222
     print(str(x) == str(x)[::-1])

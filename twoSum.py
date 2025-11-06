@@ -8,7 +8,7 @@ def twoSum(nums):
                 return [a, b]
 twoSum(nums)
 
-# optimized version of twoSum
+# optimized version of twoSum (Leet Code)
 nums = [3,2,3]
 def twoSum(nums):
     target = 6
